@@ -30,3 +30,4 @@ sysinfo.txt
 *.unitypackage
 RunRunTap/Temp/
 RunRunTap/Library/
+Library/*
