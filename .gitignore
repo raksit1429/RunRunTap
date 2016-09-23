@@ -31,3 +31,22 @@ sysinfo.txt
 *.unitypackage
 lib/model/om/* 
 RunRunTap/Library/
+
+# Unity3D .gitignore file.
+# Store this file at the root of your local repository.
+.DS_Store
+Library/AssetImportState
+Library/AssetServerCacheV3
+Library/FailedAssetImports.txt
+Library/ScriptAssemblies
+Library/ScriptMapper
+Library/assetDatabase3
+Library/cache
+Library/expandedItems
+Library/metadata
+Library/previews
+Library/guidmapper
+Temp
+*.csproj
+*.pidb
+*.sln
